@@ -1,15 +1,17 @@
 <h1 align="center">Hello!, we are Tecnilab</h1>
 <h3 align="center">Soluciones Integrales de Laboratorio S.L.</h3>
 
-- 🔭 We are currently working on **OliveLab / Intacta Control Software (ICONS)**
+- 📍 We are located in **C/ Cereal 34-36 Nave 1 Pol. Ind. La llave. CP.19170 El Casar (Guadalajara)**
 
-- 🌱 We are currently learning **Wordpress**
+- 🔭 We are currently working on **OliveLab / Intacta Control Software (ICONS)**
 
 - 📝 We regularly write articles on [https://www.tecnilab.es/blog-de-tecnilab/](https://www.tecnilab.es/blog-de-tecnilab/)
 
 - 💬 Ask us about **NIR Tecnology / Soxhlet / Olive Analyzing Devices**
 
 - 📫 How to reach me **info@tecnilab.es / tecnilab@tecnilab.es**
+
+- ☎️ Call me **+34 949 335 460**
 
 - ⚡ Fun fact **🫠 We have been working in the agri-food industry for more than 20 years 🫠**
 
