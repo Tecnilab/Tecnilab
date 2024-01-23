@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, we are Tecnilab</h1>
+<h1 align="center">Hello! We are Tecnilab</h1>
 <h3 align="center">Soluciones Integrales de Laboratorio S.L.</h3>
 
 - 📍 We are located in **C/ Cereal 34-36 Nave 1 Pol. Ind. La llave. CP.19170 El Casar (Guadalajara)**
