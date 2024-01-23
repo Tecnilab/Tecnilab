@@ -9,9 +9,9 @@
 
 - 💬 Ask us about **NIR Tecnology / Soxhlet / Olive Analyzing Devices**
 
-- 📫 How to reach me **info@tecnilab.es / tecnilab@tecnilab.es**
+- 📫 How to reach us **info@tecnilab.es / tecnilab@tecnilab.es**
 
-- ☎️ Call me **+34 949 335 460**
+- ☎️ Call us **+34 949 335 460**
 
 - ⚡ Fun fact **🫠 We have been working in the agri-food industry for more than 20 years 🫠**
 
